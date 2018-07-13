@@ -1,0 +1,23 @@
+{
+  "name": "alc-udacity",
+  "version": "1.0.0",
+  "description": "This is the ALC 3.0 Google/Udacity Challenge 2.0 on using jQuery",
+  "main": "designs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WiseCyril/ALC-3.0-Google-Udacity-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WiseCyril/ALC-3.0-Google-Udacity-Challenge/issues"
+  },
+  "homepage": "https://github.com/WiseCyril/ALC-3.0-Google-Udacity-Challenge#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
